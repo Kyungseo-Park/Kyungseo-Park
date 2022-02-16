@@ -3,8 +3,9 @@
 
 [![Linkedin: Kyungseo-Park](https://img.shields.io/badge/-KyungseoPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyungseo-park-2bb6591a5/)](https://www.linkedin.com/in/kyungseo-park-2bb6591a5/)
 
-📫 contact us: troublesome.dev@gmail.com | dev@kspark.link
-:memo: blog: https://velog.io/@kkyungvelyy
+📫 contact us: troublesome.dev@gmail.com     
+📫 contact us: dev@kspark.link     
+:memo: blog: https://velog.io/@kkyungvelyy  
 ### Focused Tech Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Next.js&style=social)&nbsp;&nbsp;

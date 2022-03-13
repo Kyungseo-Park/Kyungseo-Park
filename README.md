@@ -16,6 +16,10 @@
 
 ![Most Used Languages](https://raw.githubusercontent.com/Kyungseo-Park/Kyungseo-Park/main/generated/languages.svg)
 
+### 브론즈인데 4월부터 시작할거
+
+[![Solved.ac kkyungvelyy Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungvelyy)](https://solved.ac/kkyungvelyy/)
+
 <!-- ### 👣 Traces of my life -->
 
 ### 실험실

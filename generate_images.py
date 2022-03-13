@@ -32,7 +32,7 @@ async def generate_overview(s: Stats) -> None:
     Generate an SVG badge with summary statistics
     :param s: Represents user's GitHub statistics
     """
-    with open("templates/overview.svg", "r") as f:
+    with open("generated/overview.svg", "r") as f:
         output = f.read()
 
     output = re.sub("{{ name }}", await s.name, output)

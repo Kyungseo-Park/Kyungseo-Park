@@ -14,7 +14,7 @@
 
 ### 📊 Github Stats
 
-![Most Used Languages](https://raw.githubusercontent.com/Kyungseo-Park/Kyungseo-Park/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Kyungseo-Park/Kyungseo-Park/main/generated/languages.svg)
 
 <!-- ### 👣 Traces of my life -->
 

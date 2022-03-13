@@ -54,7 +54,7 @@ async def generate_languages(s: Stats) -> None:
     Generate an SVG badge with summary languages used
     :param s: Represents user's GitHub statistics
     """
-    with open("templates/languages.svg", "r") as f:
+    with open("generated/languages.svg", "r") as f:
         output = f.read()
 
     progress = ""

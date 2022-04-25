@@ -1,43 +1,15 @@
-<div align="center">
-  <img src="./images/kyungseo.park.jpg" width="180" style="border-radius: 50%">
+## Hi 나는 
+<br>
 
-[![Linkedin: Kyungseo-Park](https://img.shields.io/badge/-KyungseoPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyungseo-park-2bb6591a5/)](https://www.linkedin.com/in/kyungseo-park-2bb6591a5/)
+### Tech Stack
+<div style="inline:block;">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br>
 
-📫 contact us: troublesome.dev@gmail.com     
-📫 contact us: dev@kspark.link     
-:memo: blog: https://velog.io/@kkyungvelyy  
-### Focused Tech Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Next.js&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&style=social)&nbsp;&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-black?logo=Laravel&style=social)&nbsp;&nbsp;
-
-### 📊 Github Stats
-
-![Most Used Languages](https://raw.githubusercontent.com/Kyungseo-Park/Kyungseo-Park/main/generated/languages.svg)
-
-### 브론즈인데 4월부터 시작할거
-
-[![Solved.ac kkyungvelyy Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungvelyy)](https://solved.ac/kkyungvelyy/)
-
-<!-- ### 👣 Traces of my life -->
-
-### 실험실
-[서버 스팩 - 물리서버]  
-Intel Xeon E3 1245v5 (4코어 8쓰레드)  
-32GB DDR4 ECC 2133MHz (32기가)  
-2x 2To HDD Soft RAID (HDD 2TB)  
-  
-https://kkyungvelyy.com   
-http://jenkins.kkyungvelyy.com/  
-
-### 진행중인 사이드 프로젝트
-[레포 초대 문의는 메일로]  
-프론트 - https://kspark.link  
-백엔드 - https://api.kspark.link  
-
-### 대기중인 사이드 프로젝트
-
-[![TechBlog Kyungseo-Park](https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Medium&logoColor=#000000)](https://blog.kkyungvelyy.com)
-[![Profile Kyungseo-Park](https://img.shields.io/badge/Portfolio-999999?style=flat-square&logo=The%20Irish%20Times&logoColor=white)](https://profile.kkyungvelyy.com)
-[![경서와아이들 Kyungseo-Park](https://img.shields.io/badge/%EA%B2%BD%EC%84%9C%EC%99%80%20%EC%95%84%EC%9D%B4%EB%93%A4-EB2E2C?style=flat-square&logo=Ferrari%20N.V.&logoColor=white)](https://team.kkyungvelyy.com)
+### 🤔 
